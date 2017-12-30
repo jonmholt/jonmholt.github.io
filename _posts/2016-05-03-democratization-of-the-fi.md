@@ -9,7 +9,6 @@ subclass: 'post tag-servus'
 layout: post
 current: post
 author: jonmholt
-cover: 'assets/images/cape-6.jpg'
 ---
 Haves and have-nots are the basis of the financial industry, that is financial institutions are mediators between those who have excess money and those who need it.  The industry takes the excess money with a promise to repay it all and a little bit more. It gives that money to those who need it with an expectation that they’ll repay it back with a little bit more.  As long as the little bit more that the borrower returns is greater  than the little bit more they promised the saver (and operating expenses), the FI makes a profit.  It’s a business model that has existed successfully for millennia.  But that business model is beginning to erode. To understand why, let's take a wander through an admittedly simplified history of money.
 
