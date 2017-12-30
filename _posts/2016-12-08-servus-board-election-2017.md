@@ -2,7 +2,14 @@
 title: 'The Servus Board Election'
 date: 2016-12-08 00:00:00 
 tags: servussuperheroes signature
+
+
+class: post-template
+subclass: 'post tag-servus'
 layout: post
+current: post
+author: jonmholt
+cover: 'assets/images/cape-6.jpg'
 ---
 As many of you know, I currently sit on the Servus Board of Directors.
 

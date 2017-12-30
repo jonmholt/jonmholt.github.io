@@ -2,7 +2,14 @@
 title: 'So what does the board do, anyway?'
 date: 2016-12-12 00:00:00 
 tags: servussuperheroes signature
+
+
+class: post-template
+subclass: 'post tag-servus'
 layout: post
+current: post
+author: jonmholt
+cover: 'assets/images/cape-6.jpg'
 ---
 When people find out that I’m a director for Servus, the question I get more than any other is:
  

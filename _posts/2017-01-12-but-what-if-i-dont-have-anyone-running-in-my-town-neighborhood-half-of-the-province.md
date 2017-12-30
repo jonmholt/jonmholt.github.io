@@ -2,7 +2,13 @@
 title: "But what if I don't have anyone running in my town/neighborhood/half of the province?"
 date: 2017-01-12 00:00:00 
 tags: servussuperheroes signature
+
+class: post-template
+subclass: 'post tag-servus'
 layout: post
+current: post
+author: jonmholt
+cover: 'assets/images/cape-6.jpg'
 ---
 An excuse I’m often given for why people don’t vote in the Servus Board of Director elections is that “There was no one running in my [insert geographic region here]”.  This is an understandable reaction given how our provincial and federal elections work.  Where are the ridings? Who represents my interests? Who will speak for my urban/rural perspective?
 

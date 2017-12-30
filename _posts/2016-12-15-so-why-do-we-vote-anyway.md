@@ -2,7 +2,14 @@
 title: 'So why do we vote, anyway?'
 date: 2016-12-15 00:00:00 
 tags: servussuperheroes signature
+
+
+class: post-template
+subclass: 'post tag-servus'
 layout: post
+current: post
+author: jonmholt
+cover: 'assets/images/cape-6.jpg'
 ---
 So, last time we discussed what the board does.  Hopefully, you came away with a sense of why a strong board might be important to you.  But many ask why they get to vote anyway.  It seems odd to most that a board of directors would be elected, but this is a key principle of a Credit Union.
 

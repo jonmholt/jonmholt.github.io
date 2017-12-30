@@ -2,7 +2,13 @@
 title: 'How do I know any of these people are qualified?'
 date: 2017-01-05 00:00:00 
 tags: servussuperheroes signature
+
+class: post-template
+subclass: 'post tag-servus'
 layout: post
+current: post
+author: jonmholt
+cover: 'assets/images/cape-6.jpg'
 ---
 I get a lot of comments from people who tell me that they don’t vote because they don’t know if the person they are voting for would do a good job.  That’s a fair worry, but let me tell you a secret:
  

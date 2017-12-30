@@ -2,7 +2,13 @@
 title: "But isn't it just an old boys' club?"
 date: 2016-12-21 00:00:00 
 tags: servussuperheroes signature
+
+class: post-template
+subclass: 'post tag-servus'
 layout: post
+current: post
+author: jonmholt
+cover: 'assets/images/cape-6.jpg'
 ---
 The average number of male board members in Credit Unions across Canada is 70% –Servus has 58%.
 
