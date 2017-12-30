@@ -9,7 +9,7 @@ layout: post
 current: post
 author: jonmholt
 navigation: true
-cover: '/content/images/2014/Aug/crabbies-ginger-beer.png'
+cover: 'content/images/2014/Aug/crabbies-ginger-beer.png'
 ---
 As part of my journey into gluten free brewing, I'm experimenting with other types of alcoholic beverages that can be made at home. The first of these adventures is a ginger beer...a traditional, malt free, Jamaican style ginger beer.  This is intended to be something of a Crabbies clone, but I'm sure it will end up quite unique.  My goal with this brew is to begin to catalogue a list of relatively fail safe homebrews that anyone can do with only the basic equipment.  I intend to keg this batch, but will also experiment with a bottled version.  Without further ado, here it is:
 

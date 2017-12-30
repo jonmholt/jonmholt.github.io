@@ -9,7 +9,7 @@ layout: post
 current: post
 author: jonmholt
 navigation: true
-cover: '/content/images/2014/Sep/age-test-cassette-tape-pencil.jpg'
+cover: 'content/images/2014/Sep/age-test-cassette-tape-pencil.jpg'
 ---
 Alex came home last night talking about the story they were reading in school. He talked about how it was a true story, a story about the author's real life, a story called something like 'a house and a big wood'.  It didn't take us too long to figure out that he was talking about [Little house on the prairie](http://en.wikipedia.org/wiki/Little_House_on_the_Prairie) by Laura Ingalls Wilder.  And thus began the reminiscing . 
 
