@@ -15,7 +15,7 @@ I'm Jon Holt. I've been a consultant for over 15 years working with Governments,
 
 But my passion is sitting with business owners and helping them get clarity on what success looks like and how they might get there.
 
-When I'm not having fun with businesses, I'm likely to be found spending long hours on my tri-bike pedalling through the mountains I live in. I'm a two-time Ironman Canada finisher (once in Penticton and once in Whistler). And I truly believe I swim, bike and run myself to happiness.
+When I'm not having fun with businesses, I'm likely to be found spending long hours on my tri-bike pedalling through the mountains I live in. I'm a three-time Ironman Canada finisher (once in Penticton, once in Whistler, and once in Mont Tremblant). And I truly believe I swim, bike and run myself to happiness.
 
 <p>
   <a class="twitter-follow-button" href="https://twitter.com/jonmholt">Follow @jonmholt</a>

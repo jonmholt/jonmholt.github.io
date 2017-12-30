@@ -28,3 +28,5 @@ Taking a lean approach to process analysis, together we can get a deep understan
 If you don't understand how technology can help, though, how do you know where it fits in the solution?  That's where an expert is important.  Having worked with in a dozen industries, from single proprietors to government ministries to multinational corporations, I have the experience to know how technology can help.  And more importantly, how it can't.  I can identify places where automation can enhance a process.  And I can design it so that it fits into your current process seemlessly.
 
 The real magic happens when we can start to decouple the growth of your profit from the growth of your staff.  Many companies falter when their technique of just adding another person to the team no longer increases profit. Finding ways to leverage technology to scale up your customer base without scaling up your staff (or the hours you work) is the key to reaching the next level.
+
+I'm not currently accepting new work, but feel free to reach out if you'd like to chat about what keeps you busy.
