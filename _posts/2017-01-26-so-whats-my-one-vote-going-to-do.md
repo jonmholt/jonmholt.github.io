@@ -2,7 +2,12 @@
 title: "So what's my one vote going to do?"
 date: 2017-01-26 00:00:00 
 tags: servussuperheroes signature
+class: post-template
+subclass: 'post tag-servus'
 layout: post
+current: post
+author: jonmholt
+cover: 'assets/images/cape-6.jpg'
 ---
 Well here’s the thing, in Credit Union elections, people don’t vote.  In the last provincial election 57% of eligible voters turned out…only slightly more than half.  In the last federal election, 68.5% of eligible voters turned out.  In the last Servus election, guess how many voted?
  
