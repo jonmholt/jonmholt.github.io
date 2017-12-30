@@ -3,6 +3,14 @@ title: '5 Things I learned about Negotiation from my kids'
 date: 2015-06-04 00:00:00 
 tags: signature
 layout: post
+
+
+class: post-template
+subclass: 'post tag-servus'
+layout: post
+current: post
+author: jonmholt
+cover: 'assets/images/5-things-I-learned-about-negotiating-from-my-kids-notext.jpg'
 ---
 I suck at negotiating.  But you know who's really good at it?  My kids.  So I've decided to take a page from Jeff Goins and *accept a mentor from an unexpected source* and learn from them.
 

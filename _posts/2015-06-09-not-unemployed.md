@@ -1,5 +1,5 @@
 ---
-title: "Dear Dad: I'm not unemployed.""
+title: "Dear Dad: I'm not unemployed."
 date: 2015-06-09 00:00:00 
 tags: 
 layout: post
