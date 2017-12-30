@@ -8,7 +8,7 @@ subclass: 'post'
 layout: post
 current: post
 author: jonmholt
-cover: 'content/images/2015/03/two_legged_stool.jpg'
+cover: 'content/images/2015/02/two_legged_stool.jpg'
 ---
 *This is Part 1 of a 5 part series.  To see the whole series, read the [introductory post](/five-meditations).*
 

@@ -8,7 +8,7 @@ subclass: 'post'
 layout: post
 current: post
 author: jonmholt
-cover: 'content/images/2015/03/buddha.jpg'
+cover: 'content/images/2015/02/buddha.jpg'
 ---
 Recently, I've spent a great deal of time thinking about the future and  the present, about success and abundance, about work and play, about purpose and happiness. I've leaned on some great minds like Tony Robbins, Michael Hyatt, Peter Diamandis and Russ Ruffino.  If I've learned anything, I've learned that in order to be successful in anything you do, you need to understand at your core the reasons for what you do.  You need to understand the why, and from that will come an ability to focus and an ability to succeed.
 
