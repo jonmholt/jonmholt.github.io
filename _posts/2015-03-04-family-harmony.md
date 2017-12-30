@@ -2,7 +2,12 @@
 title: 'Family Harmony: meditations on the personal/family balance'
 date: 2015-03-04 00:00:00 
 tags: 
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
 ---
 *This is Part 3 of a 5 part series.  To see the whole series, read the [introductory post](/five-meditations).*
 

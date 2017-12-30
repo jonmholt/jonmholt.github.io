@@ -2,11 +2,17 @@
 title: 'My five meditations for abundance'
 date: 2015-02-02 00:00:00 
 tags: 
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+cover: 'content/images/2015/03/buddha.jpg'
 ---
 Recently, I've spent a great deal of time thinking about the future and  the present, about success and abundance, about work and play, about purpose and happiness. I've leaned on some great minds like Tony Robbins, Michael Hyatt, Peter Diamandis and Russ Ruffino.  If I've learned anything, I've learned that in order to be successful in anything you do, you need to understand at your core the reasons for what you do.  You need to understand the why, and from that will come an ability to focus and an ability to succeed.
 
-![](/content/images/2015/02/leaf-of-faith-1.jpg)
+<img src="/content/images/2015/02/leaf-of-faith-1.jpg"/>
 
 Success in anything requires guts and tenacity. Guts because great things never come from comfort zones. It takes guts to push through your own limits and to discover what's possible.  You need tenacity because no journey is linear.  There are always detours, switch backs and outright failures along the way.  Tenacity, and yes faith in your goal, are what keep us going.  Tenacity is the ability to keep trying *different* things until you succeed.  To do that, you have to have a firm vision of where you want to be.  And that vision should transcend even your wildest dreams, because we are our own worst enemies.
 

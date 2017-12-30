@@ -2,9 +2,14 @@
 title: 'On being hungry...'
 date: 2015-01-23 00:00:00 
 tags: fitness
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+cover: 'content/images/2015/01/strawberries-1.jpg'
 ---
-![](/content/images/2015/01/strawberries-1.jpg)
 
 I have been working my ass of for the last 3 weeks doing Shaun T's Insanity Max:30.  It's a fantastic HIIT workout and is producing some amazing results (call me, I'll hook you up).  But this go 'round, I decided to also work through the eating plan.  As an athelete who has largely eaten whatever I wanted, it has caused me to pause and reflect on being hungry.
 

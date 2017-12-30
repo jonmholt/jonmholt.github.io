@@ -2,7 +2,13 @@
 title: 'Giving Back: meditations on how to make a real difference'
 date: 2015-03-13 00:00:00 
 tags: 
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+cover: 'content/images/2015/03/photo-1413977808283-c0c106512928.jpeg'
 ---
 *This is Part 5 of a 5 part series.  To see the whole series, read the [introductory post](/five-meditations).*
 

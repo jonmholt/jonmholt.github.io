@@ -2,11 +2,16 @@
 title: 'Our Third Pillar: meditations on success as a couple'
 date: 2015-02-02 00:00:00 
 tags: 
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+cover: 'content/images/2015/03/two_legged_stool.jpg'
 ---
 *This is Part 1 of a 5 part series.  To see the whole series, read the [introductory post](/five-meditations).*
 
-![](/content/images/2015/02/two_legged_stool.jpg)
 Our third pillar. Imagine a three legged stool with only two legs.  It doesn't work well does it?  Sure, you can sit on it.  But it requires effort.  It requires a constant attention to balance.  Sitting on a two-legged stool means you are never quite comfortable, never quite relaxed.  When Faye and I sat down to figure out what was important in the future, we realized that while we had a great deal of success in our lives, we were sitting on two legged stool when it came to us a couple.  
 
 Many things are important to us, but as we sat down to take stock of today, we quickly realized that there were two things for which we were eternally grateful.  First and foremost was the fact that after almost 20 years together, we are still each other's best friend.  Our marriage and our focus on *us* has been a cornerstone of our lives and will be as we succeed in the future. Acknowledging and respecting that as a powerful component to our success strengthens the relationship today and our success in the future.

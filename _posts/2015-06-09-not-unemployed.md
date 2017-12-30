@@ -2,7 +2,13 @@
 title: "Dear Dad: I'm not unemployed."
 date: 2015-06-09 00:00:00 
 tags: 
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+cover: 'content/images/2015/06/Dear_dad_I_m_not_unemployed_notext.jpg'
 ---
 I was sitting around an enormous crib table one evening talking about moving, when a second-cousin once removed (or something) looked at me incredulously and asked:
 > How did you get a mortgage when you're not working?

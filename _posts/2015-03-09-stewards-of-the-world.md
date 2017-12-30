@@ -2,7 +2,13 @@
 title: 'Stewards of the world: meditations on exploration and raising children'
 date: 2015-03-09 00:00:00 
 tags: 
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+cover: 'content/images/2015/03/space_700x394.png'
 ---
 <img src="/content/images/2015/03/space_700x394-2.png" style='display:none'>
 

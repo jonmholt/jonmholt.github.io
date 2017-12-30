@@ -6,11 +6,11 @@ layout: post
 
 
 class: post-template
-subclass: 'post tag-servus'
+subclass: 'post'
 layout: post
 current: post
 author: jonmholt
-cover: 'assets/images/5-things-I-learned-about-negotiating-from-my-kids-notext.jpg'
+cover: 'content/images/2015/06/5-things-I-learned-about-negotiating-from-my-kids-notext.jpg'
 ---
 I suck at negotiating.  But you know who's really good at it?  My kids.  So I've decided to take a page from Jeff Goins and *accept a mentor from an unexpected source* and learn from them.
 
