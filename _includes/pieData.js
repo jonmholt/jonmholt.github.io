@@ -1,4 +1,5 @@
 {% raw %}
+<script>
 var pieData = [
     {
         value: 62800.00,
@@ -127,4 +128,5 @@ window.onload = function () {
         multiTooltipTemplate: "<%if (datasetLabel){%><%=datasetLabel%>: <%}%><%= value %>"
     });
 };
+</script>
 {% endraw %}
