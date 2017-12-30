@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 <p style="text-align: center;">
-![](/content/images/2015/08/jon.jpg)
+![](/assets/images/jon.jpg)
 </p>
 
 I'm Jon Holt. I've been a consultant for over 15 years working with Governments, boards and financial institutions. In 2008 I started my first consulting agency with a partner. In 2009, I worked with my first startup helping them to figure out how to get off the ground. In 2011, I joined my first startup enterprise. In 2012, I started my second. And since 2008, I've been a director of a $14B credit union. I've worked with, worked in and worked on nearly 100 organizations of all sizes.
