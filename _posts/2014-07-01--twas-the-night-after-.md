@@ -1,5 +1,5 @@
 ---
-title: ''Twas the night after...'
+title: "'Twas the night after..."
 date: 2014-07-01 00:00:00 
 tags: ironman triathlon
 layout: post

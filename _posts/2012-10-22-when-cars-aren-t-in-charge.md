@@ -1,5 +1,5 @@
 ---
-title: 'When cars aren't in charge'
+title: "When cars aren't in charge"
 date: 2012-10-22 00:00:00 
 tags: triathlon design usability
 layout: post

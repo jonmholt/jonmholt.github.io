@@ -1,5 +1,5 @@
 ---
-title: 'The 4 'A's of team behaviour'
+title: "The 4 'A's of team behaviour"
 date: 2010-08-19 00:00:00 
 tags: business all-problem-are-communication-problems
 layout: post

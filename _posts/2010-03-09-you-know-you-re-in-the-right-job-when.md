@@ -1,5 +1,5 @@
 ---
-title: 'You know you're in the right job when'
+title: "You know you're in the right job when"
 date: 2010-03-09 00:00:00 
 tags: business
 layout: post

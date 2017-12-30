@@ -1,5 +1,5 @@
 ---
-title: ''Twas the night before...'
+title: "'Twas the night before..."
 date: 2014-06-30 00:00:00 
 tags: 2-minute-essay ironman triathlon
 layout: post
