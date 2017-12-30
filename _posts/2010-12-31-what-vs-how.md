@@ -2,7 +2,13 @@
 title: 'What vs how'
 date: 2010-12-31 00:00:00 
 tags: business development
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 So I sat down to write out my GTD 50k goals and work my way into the next quarter.  And its hard.  Let me rephrase that ... it's haaaaaaaaaaaaard.  The question is why?  I know what's important to me, I know what I want to accomplish, don't I?  Why is it so ever-loving hard to sit down and write out those goals?  <a name="more"></a>
 

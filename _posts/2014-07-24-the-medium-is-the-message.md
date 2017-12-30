@@ -2,7 +2,13 @@
 title: 'The medium is the message'
 date: 2014-07-24 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I run through some of the more interesting parts of the river neighbourhoods of Edmonton. As a result I get to see some of the rougher parts of an admittedly not very rough part of the world. But it does have its share of homeless camps and graffiti. There's the usual highschool grad graffiti on the bridges. The neophytic "your mama" graffiti on the pavement. &nbsp;And the unimaginative defacement of signs to no purpose. &nbsp;These are thoroughly uninteresting. &nbsp;There are, however, some examples of truly gifted artists and you can see many of those pieces at the [Edmonton Street Art tumblr](http://yegstreetart.tumblr.com/). &nbsp;But as Marshal Mcluhan argued so long ago, the medium is the message, and in the case of art like this, the medium always leads us to debate a term like art.
 

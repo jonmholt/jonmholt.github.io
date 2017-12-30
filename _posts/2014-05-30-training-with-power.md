@@ -2,7 +2,13 @@
 title: 'Training with Power'
 date: 2014-05-30 00:00:00 
 tags: ironman triathlon
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 This is my first year training with a power meter. &nbsp;It is quite a change from just measuring speed or heart rate. &nbsp;For one thing, all those books that talk about power all of a sudden make sense, and it becomes pretty obvious pretty quickly why most cycling coaches have gone to power as the primary tool for performance measurement: it doesn't care. &nbsp;The power meter doesn't care if you're tired or if the weather is terrible. &nbsp;It doesn't care if you're doing your bike after 4 kms in the pool so your heart rate is already starting to drift. It knows the difference between an uphill and a downhill, even if you can't see it. &nbsp;It is a measurement of the power you are putting into the pedals and therefore the wheels regardless of any other external factor. &nbsp;That's what makes it so useful.
 

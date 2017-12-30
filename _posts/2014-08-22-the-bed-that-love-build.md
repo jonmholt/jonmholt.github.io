@@ -2,7 +2,13 @@
 title: 'The bed that love build'
 date: 2014-08-22 00:00:00 
 tags: 
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 When you want a new bed for your son you pop out to your local shop and pick one up. Or at least that's what any sane Dad would do. If you did, you'd get a bed built to exacting standards, with a uniform finish and a CSA safety rating.  If you're me, however, you decide that despite 3 contracts, a business, Ironman training, and rebuilding the intake on mini,  making one would be a much better idea.   What you get when you do is a bed where the edges don't all line up, with a mottled finish and a rather creaky disposition. The bed that love built.
 

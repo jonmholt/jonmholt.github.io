@@ -2,7 +2,13 @@
 title: 'Minimalism is dead'
 date: 2014-06-06 00:00:00 
 tags: 2-minute-essay ironman triathlon
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 For the better part of the last 2 years, I have run in what most would call a minimalist shoe. &nbsp;I don't have the goofy toe-shoes that have cause all the [controversy](http://www.runnersworld.com/general-interest/vibram-agrees-to-settle-class-action-lawsuit) the last little while, but I was a big fan of my Merrell minimalist runners. &nbsp;As a training shoe they have been absolutely marvellous and I've done two half ironmen in them and at least one hand's worth of half-marathons. &nbsp;The thing is, anything over 23km at a time or over 35km in a week and I destroy my body. &nbsp;Today was the first day I went back to cushioned shoes.
 

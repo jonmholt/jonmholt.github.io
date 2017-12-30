@@ -2,7 +2,13 @@
 title: 'Dirty Hands'
 date: 2014-06-04 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 There is a certain pride in dirty hands. &nbsp;Dirty hands to me mean that I've done something tangible, something of substance, something that required 3 dimensional, creative thinking. &nbsp;As someone with a relatively cognitive profession, I don't get to see tangible products all that often. But as someone with the need to create, dare I say, a maker, dirty hands are often a sign that I'm in my happy place.
 

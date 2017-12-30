@@ -2,7 +2,13 @@
 title: 'Democracy is hard'
 date: 2014-05-27 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I once read a quote somewhere that said "Parenting is the art of slowly shifting the family dynamic from an autocracy to a democracy". &nbsp;When I first heard that quote, I thought to myself that the hard part is knowing how fast to go how far down that spectrum. &nbsp;It turns out, and I'm barely started down that spectrum, that the hard part is democracy. &nbsp;When you've got things to get done, democracy doesn't work very well.
 

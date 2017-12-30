@@ -2,7 +2,13 @@
 title: 'A Race Plan'
 date: 2014-07-04 00:00:00 
 tags: ironman triathlon
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 As part of preparing for Ironman, I use a lot of resources to help coach myself through the arduous journey. &nbsp;One of those is the copious amount of material put out there by Joe Friel. &nbsp;One of the tasks he sets out for athletes as they approach their big race is to develop a race plan. &nbsp;This is an overall plan of what you want to accomplish and how you want to get there. This is mine.
 

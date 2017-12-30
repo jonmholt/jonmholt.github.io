@@ -2,7 +2,13 @@
 title: 'T.G.I.T. — Thank God for Island Time'
 date: 2014-07-30 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 So as we recover from the mania that is Ironman, we are headed off on a coastal adventure. We'll be spending the next four days on Saltspring Island. Our plan was to take a ferry from Horseshoe Bay to Saltspring, but unfortunately, you can't get there from here my son. So instead, we took the scenic route.
 

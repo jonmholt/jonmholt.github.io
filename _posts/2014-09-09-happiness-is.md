@@ -2,7 +2,13 @@
 title: 'Happiness  is...'
 date: 2014-09-09 00:00:00 
 tags: 
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Accomplishing something difficult is a roller-coaster of emotions.  There are good times when the pixie dust just seems to working.  There are bad times when nothing you do seems to make a difference.  And there is every place in between.  In the last 12 hours I have been through the entire cycle on what would prove the last day of a project to rejuvenated our 1947 Ford 8N tractor.  In the end, happiness is as simple as that tractor moving under it's own steam:
 <div style="text-align: center;">

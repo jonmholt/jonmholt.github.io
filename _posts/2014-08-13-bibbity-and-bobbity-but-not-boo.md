@@ -2,7 +2,13 @@
 title: 'Bibbity and Bobbity, but not Boo'
 date: 2014-08-13 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 We read every night to our kids. &nbsp;They love books. &nbsp;And because we've been reading to them since pretty much the day they were born, their comprehension is incredible. &nbsp;As an example, we began reading Harry Potter to our four year old. &nbsp;We thought at first that he probably wouldn't be grasping all of the story, but then he began asking questions and predicting what would happen next and we knew that when the story came orally, he was ready. &nbsp;His little sister, occasionally, will listen in when we read to him and so has a grasp of brooms, wands and spells. The two of them dress up in their bath "robes" and run around with their wands quite regularly. While Alex can grasp the themes of the book and understand the "fiction" of it, we hesitate to expose Kay to the darker elements. &nbsp;Even though she loves the bibbity bobbity of the magic, the boo is often too much for her.
 

@@ -2,7 +2,13 @@
 title: 'The space for thought'
 date: 2014-07-03 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 One thing I've learned through writing every day is that you need space to think. &nbsp;The day can get away from you with all the hustle and bustle. &nbsp;And when 10pm rolls around and I think to myself...shoot, I need to write...it's much easier if I've had a space in the day to think.
 <a name="more"></a>

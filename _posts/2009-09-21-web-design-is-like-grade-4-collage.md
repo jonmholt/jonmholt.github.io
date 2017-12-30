@@ -2,7 +2,13 @@
 title: 'Web design is like grade 4 collage'
 date: 2009-09-21 00:00:00 
 tags: development
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I was working on a website redesign project for one of the clients of our sister [educational software services ](http://twentyfivetwenty.ca)company, and I was plugging away in GIMP moving bits around, trying to get a sense for the new proportions of the site after adding an image banner.  While I was in the process of this, one of the teachers there stopped by to watch.  She commented that she "hadn't realized that making a web page was so much like doing collage."  I smiled, thinking of how true that statement was looking at the duck tape and bailing wire of the html and css holding this site together.  I made some offhand remark about how frustrating it can be when the different browsers all treat the same instructions differently and it was at this point that she gave me my "aha" moment for the week: "Oh, its kinda like giving a collage assignment to a group of grade 4's...you give them the same materials, the same instructions, and yet they all come out just a little bit different"<a name="more"></a>
 

@@ -2,7 +2,13 @@
 title: 'Lifted by the corners of your mouth'
 date: 2014-07-07 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Every once in a while I do yoga. &nbsp;For a pretty fit dude, yoga is hard and so I tend not to stick with it. &nbsp;But on days like today I remember why I should and it has nothing to do with fitness or flexibility. &nbsp;Yoga is one of those practices that does more for your internal than your external self. It calms the mind, it broadens your awareness and it gives you focus. &nbsp;But it gives you focus on things that don't cause worry. &nbsp;In fact, it brings you focus specifically on the things that bring and cause you joy.
 

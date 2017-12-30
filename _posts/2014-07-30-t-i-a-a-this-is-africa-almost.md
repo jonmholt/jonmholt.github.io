@@ -2,7 +2,13 @@
 title: 'T.I.A...A — This Is Africa ... Almost'
 date: 2014-07-30 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 There's an expression familiar to those who've lived in Africa (or those that are married to someone who has), that says so little and yet means so much. TIA, This Is Africa, is the refrain of all those who've come to understand the haphazard, shoddy, often innocently self interested and sometimes downright shady way things are done there. As we rolled into Saltspring, I couldn't help but make a similar observation.
 

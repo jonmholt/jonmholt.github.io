@@ -2,7 +2,13 @@
 title: 'A user story - in video'
 date: 2010-04-29 00:00:00 
 tags: development design ux requirements saas user-story wireframe
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Wire-framing is God's gift to requirements gathering.  Its true.  I'm a recent convert to formally including a wireframe in the design/requirments process.  Why this sudden conversion?  The discovery of a tool that makes it almost child's play to explore your options: [balsamiq](http://www.balsamiq.com/).  Here is my top-5 list of why wireframing, and balsamiq in particular, is awesome:
 

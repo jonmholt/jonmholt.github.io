@@ -2,7 +2,13 @@
 title: 'The spaces in between'
 date: 2014-07-10 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 When you train, the goal, one supposes, is an increase in performance. &nbsp;The reason that training has that effect is that our body has an incredible ability to repair itself. &nbsp;Repair is key because the act of training is the act of doing damage to ones body in a controlled fashion. &nbsp;One of the coolest parts of how our body repairs itself is that the repaired tissue is often stronger and more resilient than the tissue that came before, and this is how we improve. &nbsp;Training strains the muscular system, the nervous system, the cardio-vascular system, the endocrine system, and many others. &nbsp;And our body has a mechanism for repairing all of them. &nbsp;And while it's repairing, it tries to ensure that the same level of strain won't cause the same degree of damage. &nbsp;But none of this repair and improvement occurs _during_&nbsp;training. &nbsp;It happens in the spaces in between.
 

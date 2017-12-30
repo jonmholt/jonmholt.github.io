@@ -2,7 +2,13 @@
 title: "'Twas the night after..."
 date: 2014-07-01 00:00:00 
 tags: ironman triathlon
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Just for those really into the details, I thought I would post a quick summary of my self-made 70.3\.  As a summary it was a bit slow overall but a solid effort in the swim and the bike.  The run felt extremely hot and I ignored my pace and set off way too fast...the result was obvious. 
 ![](/content/images/2014/Aug/swim.jpg)

@@ -2,7 +2,13 @@
 title: 'The project car'
 date: 2013-12-24 00:00:00 
 tags: car
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 In case you haven't been around lately to hear my blather, a few months ago I bought myself a project car. &nbsp;Yup, I'm venturing into the world of DIY automotive repair. &nbsp;Why you ask? &nbsp;Well, damn fine question really. &nbsp;I guess just because, fundamentally, I like to understand how everything works, and you can't truly understand without getting your hands dirty. &nbsp;My plan is to blog a few fairly detailed posts every time I open the hood, but I thought to kick it off, I'd start with the plan.
 

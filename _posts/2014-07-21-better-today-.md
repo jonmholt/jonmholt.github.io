@@ -2,7 +2,13 @@
 title: 'Better today...'
 date: 2014-07-21 00:00:00 
 tags: 2-minute-essay ironman
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 So, I'm a week before race day. &nbsp;I out doing one last short mini-tri to grease the wheels before we pack up and hit the road. &nbsp;And then this happens:
 ![](/content/images/2014/Aug/elbow.JPG)

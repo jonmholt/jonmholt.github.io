@@ -2,7 +2,13 @@
 title: 'Net Neutrality'
 date: 2014-06-05 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 The world is often positioned as being made up of the haves and the have nots. &nbsp;Those that have the power, money or influence to accomplish something versus those that lack those things. &nbsp;The Goliaths and the Davids. &nbsp;Health care is one of those things: in Alberta there is staunch opposition to those with power-money-influence getting better or faster treatment. Apparently in the US (and by extension here in Canada) the Internet is another. &nbsp;Somewhere along the line, the right to equitable distribution of internet bandwidth has become unassailable. The issue is whether two-tiered systems are bad. &nbsp;I'm of two minds.
 

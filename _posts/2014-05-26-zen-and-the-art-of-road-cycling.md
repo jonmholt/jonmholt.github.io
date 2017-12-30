@@ -2,7 +2,13 @@
 title: 'Zen and the art of road cycling'
 date: 2014-05-26 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Just breathe. &nbsp;Full, fluid, strokes. &nbsp;IF at .68 and falling: good. &nbsp;Speed at 29.6 and climbing: good. Slight downhill, wind behind me: go go go. &nbsp;47km in: still conserving. 5 minutes until fuel. &nbsp;I had GU last time so just liquid fuel this time. &nbsp;We'll hit that at the top of the next hill. &nbsp;Traps and shoulders down, stretch the neck. &nbsp;Watch for obstacles. &nbsp;The shoulder narrows up ahead...how far is that car behind me? At this speed that next left should be in about 15 minutes. &nbsp;Watch for range road 215\. &nbsp;IF at .67 and holding: good. &nbsp;Speed at 29.7 and holding. 
 

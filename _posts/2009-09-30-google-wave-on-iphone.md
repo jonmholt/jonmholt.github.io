@@ -2,7 +2,13 @@
 title: 'Google Wave on the iPhone'
 date: 2009-09-30 00:00:00 
 tags: development
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 As is all over the blogosphere, 100000 google wave sandbox accounts were sent out this morning.  And we got one!  You can read lots [here](http://www.techcrunch.com/2009/05/28/google-wave-drips-with-ambition-can-it-fulfill-googles-grand-web-vision/), [here ](http://news.cnet.com/8301-17939_109-10255402-2.html)and [here](http://googlewavedev.blogspot.com/).  I particularly liked [this](http://arstechnica.com/open-source/guides/2009/09/surfing-the-google-wave.ars) review of the technology behind the implementation and loved the bit about how Chrome Frame came about as a direct result of the the wave team's inability to put wave in IE (don't even get me stated on the JS engine in IE).  But after only a couple of minutes playing with the spiffy interface in chrome I thought.  Hmmm, I wonder how this will look on my iPhone?  <a name="more"></a>
 

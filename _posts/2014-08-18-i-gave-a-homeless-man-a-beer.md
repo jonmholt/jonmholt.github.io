@@ -2,7 +2,13 @@
 title: 'I gave a homeless man a beer'
 date: 2014-08-18 00:00:00 
 tags: 
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I know.  I shouldn't have.  There's usually substance abuse involved. But I did.
 

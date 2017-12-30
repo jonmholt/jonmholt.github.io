@@ -2,7 +2,13 @@
 title: "'Twas the night before..."
 date: 2014-06-30 00:00:00 
 tags: 2-minute-essay ironman triathlon
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 At least once before every Ironman event I like to do a "shorter" course. Typically that would be the [Great White North ](http://www.gwntriathlon.com/)triathlon, but this year none of the 70.3's worked for my schedule. Consequently I decided to run my own for the sake of testing my mechanics: the _process_&nbsp;of doing a triathlon. That day this year is tomorrow and as always the night before is one full of nervous energy.
 

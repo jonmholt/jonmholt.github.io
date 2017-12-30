@@ -2,7 +2,13 @@
 title: 'La belle langue'
 date: 2014-06-18 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I grew up with french all around me. &nbsp;An old french town nestled in the Alberta prairies wrapped around a french immersion school with teachers and fellow students from Quebec. &nbsp;I read, wrote and spoke with an easy fluency that carried me far in my travels through Europe. &nbsp;In fact, my love of travel was ignited through a school trip to France when I was 17\. &nbsp;French was as much a part of my life as English was, in those days. &nbsp;But that part of me has withered over the years. &nbsp;Withered, perhaps, but not died and living in the officially and authentically bilingual town of Moncton these last few days has reawakened the french part of my soul. &nbsp;Last night, I even dreamed in french.
 

@@ -2,7 +2,13 @@
 title: 'In the name of efficiency'
 date: 2012-10-01 00:00:00 
 tags: enterprise-architecture user-experience
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 When you think about efficiency I'm guessing you think about savings: cost savings, time savings, overall improvements in delivery. &nbsp;More and more, efficiency has come to mean environmental efficiency: less CO2, less water, less travel, less mining, more recycling. &nbsp;Sometimes efficiency means getting a job done with the least amount of questions, interruptions or changes. &nbsp;But if anything is clear to me, its that efficiency is not the same to all people in every situation.
 

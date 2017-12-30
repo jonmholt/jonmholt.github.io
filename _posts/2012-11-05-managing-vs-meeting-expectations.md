@@ -2,7 +2,13 @@
 title: 'Managing vs Meeting Expectations'
 date: 2012-11-05 00:00:00 
 tags: development enterprise-architecture honesty requirements
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Have you ever been on a project and heard the expression "managing expectations"? This is usually a phrase that is bandied about along with "pie in the sky" and "designing the Rolls&nbsp;Royce". This is the expression I hear most often when a project is realizing that what the client wants...what the client _expects..._ can't be done. And so they set out to _manage_ expectations. In my book, that's failure, and I'd like to explain why.
 

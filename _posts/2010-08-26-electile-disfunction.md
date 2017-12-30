@@ -2,7 +2,13 @@
 title: 'Electile Disfunction'
 date: 2010-08-26 00:00:00 
 tags: business community
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 We take community involvement seriously.&nbsp; And as one of our communities, Edmonton, is currently going through the paces of its current municipal election, I thought I would take a moment to reflect on the issues that are resonating with me at this early stage.&nbsp; My goal is awareness and my own feeble ploy to save some of you from municipal electile disfunction: that state where you can't be bothered to get up and&nbsp;vote, or worse, voting without knowing who or what you're supporting.
 <a name="more"></a>

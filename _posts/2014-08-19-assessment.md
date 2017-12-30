@@ -2,7 +2,13 @@
 title: 'Assessment'
 date: 2014-08-19 00:00:00 
 tags: 
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Part of good governance is the process of stepping back and looking at what you've done over the past year to decide if what you've accomplished met your targets.  Today I went through that process as prompted by a series of surveys and I realized what a horrible way that is of evaluating groups and individuals who fulfill a governance role not an operational one.  But I wonder what the right way to do that evaluation might be.  Thoughts?
 

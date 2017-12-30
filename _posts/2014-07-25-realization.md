@@ -2,7 +2,13 @@
 title: 'Realization'
 date: 2014-07-25 00:00:00 
 tags: 2-minute-essay ironman
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 When you have a BHAG (Big Hairy ... Audicious ... Goal), it tends to be fairly all consuming. &nbsp;You think about it and you work towards it for a very long time. &nbsp;As I'm sure you know, I'll be doing Ironman Canada Whistler on Sunday and for the better part of three years, this has been my BHAG. As the nerves roil around deep in my cockles (wherever that is), I feel the anticipation of the race. &nbsp;But another part fears the unknown, the realization of my BHAG, Monday morning when that Big Hairy friend is gone.
 

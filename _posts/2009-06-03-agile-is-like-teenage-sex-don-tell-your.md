@@ -2,7 +2,13 @@
 title: "Agile is like teenage sex: don't tell your parents"
 date: 2009-06-03 00:00:00 
 tags: development
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I just read Daniel Markham's post on how [Agile is like Teenage Sex](http://www.whattofix.com/blog/archives/2009/06/agile-project-m.php) and its nice to see I'm not the only one stuggling with the reality of agile.  I've been flirting with Agile development methodologies for close to 10 years now in various forms and I've never really seen them work.  Admittedly, I'm in the consulting field where half your day is spent justifying your existence rather than actually cutting code, but ability to actually develop, solicit feedback and act on it in short order while still providing the level _progress_ reporting required in this industry seems almost impossible.
 

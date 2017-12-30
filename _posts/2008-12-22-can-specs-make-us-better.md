@@ -2,7 +2,13 @@
 title: 'Can specs make us better?'
 date: 2008-12-22 00:00:00 
 tags: development
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 So, I've been doing a lot of reading on [JoelOnSoftware ](http://www.joelonsoftware.com/index.html)lately.  If you're not familiar, I'd encourage you to do some reading because his insight are often just what you need to kickstart your career.  I first encountered him with his article "[The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)" and, for me, its still the seminal essay on why software is an art not a science: its the art of refocussing at the level of abstraction that any given task requires.  Joel inspires people.  He inspires some to be better developers; some to be better managers; some to be better testers; but at the core he inspires people to do a better job at this business we call software.  For me, he inspires me to write.
 

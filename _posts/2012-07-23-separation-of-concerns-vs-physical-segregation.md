@@ -2,7 +2,13 @@
 title: 'Separation of concerns vs Physical Segregation'
 date: 2012-07-23 00:00:00 
 tags: enterprise-architecture design ajax deployment
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 ### aka Do I really need an App server
 If you've ever planned out an application I'm sure you've heard the term "n-tier".  The idea is to take the logical capabilities required in a system (i.e. presentation, business logic and data management) and distribute them physically across a number of servers.The classic Microsoft diagram looks like this:There are a couple of guidances from MS about how to deploy these logical tiers, but they fundamentally resolve into distributed and non-distributed models:<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;">[![](http://i.msdn.microsoft.com/dynimg/IC351016.png)](http://i.msdn.microsoft.com/dynimg/IC351016.png)</td></tr><tr><td class="tr-caption" style="text-align: center;">Non-distributed</td></tr></tbody></table><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;">[![](http://i.msdn.microsoft.com/dynimg/IC351017.png)](http://i.msdn.microsoft.com/dynimg/IC351017.png)</td></tr><tr><td class="tr-caption" style="text-align: center;">Distributed</td></tr></tbody></table>The argument put forward by the experts is:> Because all of your layers share resources, one layer can negatively affect all of the other layers when it is under heavy utilization. In addition, the servers must be generically configured and designed around the strictest of operational requirements, and must support the peak usage of the largest consumers of system resources. The use of a single tier reduces your overall scalability and maintainability because all the layers share the same physical hardware. http://msdn.microsoft.com/en-us/library/ee658120.aspxAnd I can see the logic here: if image processing or data crunching in your lower tiers chews up too much RAM on a non-distributed deployment, even the basic static web rendering will be impacted for all clients connected to that node. Other arguments are made for security (e.g. You can put a web server in the dmz and keep your business logic secure in an inner zone), scalability (e.g. You can scale out just the tier which sees the heaviest load) and re-usability (e.g. An app server allows the business logic to be used by both the web client and an API). &nbsp;All very valid point, but I wonder how valid they still are.

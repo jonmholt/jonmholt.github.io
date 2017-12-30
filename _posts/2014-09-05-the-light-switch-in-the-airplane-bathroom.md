@@ -2,7 +2,13 @@
 title: 'Have you ever gone pee on an airplane?'
 date: 2014-09-05 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Have you ever gone pee on an airplane? It's a fair question, not everyone has.  But if you have, you know the drill.  You wait impatiently in your chair for the turbulence signs to be turned off.  You carefully watch for the little "occupied" lights to be turned off.  You disentagle yourself from your seatbelt, your carryon and the seat back from in front of you.  You squeeze yourself through the aisle to stand in full view of a plane load of people who you can tell are thinking "I wonder how bad he has to pee?" and then "Huh, I wonder if I should pee?"  You wait patiently for the person occupying the closet...I mean...toilet to open the door so that you can do a dosidoe worthy of the best squaredancers anywhere. Then you squish yourself in, bracing against the movement of the plane as best you can.  Once in the room, you close the door, drowning you in dreary darkness until, finally, you slide the door lock home and, praise the Loard, there is light.
 

@@ -2,7 +2,13 @@
 title: 'To wonder why'
 date: 2014-05-16 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 In the music industry, there is a term called phrasing that, at it simplest, encapsulates how a particular artist takes a song and makes it their own. &nbsp;The true genius of gifted artists is to know music and a particular piece so well that it allows them to sing the same song but make it different. &nbsp;I think we all intuitively know when a particular song is different. &nbsp;Sometimes it's better, sometimes not. &nbsp;But have you ever tried to explain _what_ is different?
 <a name="more"></a>

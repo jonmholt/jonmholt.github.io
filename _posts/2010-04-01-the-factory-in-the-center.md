@@ -2,7 +2,13 @@
 title: 'The factory in the center'
 date: 2010-04-01 00:00:00 
 tags: business
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 [Seth Godin](http://sethgodin.typepad.com/seths_blog/2010/03/the-factory-in-the-center.html) talks about how an entire generation of manufacturing was based on the single drive shaft layout of an industrial factory and asks the question: _What if you produce a service or traffic in ideas_?  This prompted me to think about how our organization is structured and what drives how we do what we do.
 

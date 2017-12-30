@@ -2,7 +2,13 @@
 title: 'Function without form is no function at all'
 date: 2010-09-02 00:00:00 
 tags: business software user-experience
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 You've all heard the derisive phrases "form over function", "lipstick on a pig" and the like.  The gist of these epithets is to indicate that more care and attention is put into how something looks than into how that something works.  Its a fair criticism when the function is lacking, but I'd argue that when the function is solid, the form is an equally important consideration.  Function without form is no function at all.  I believe that this is an important concept that is ignored.  I believe that this needs to be a fundamental tenet of the IT industry.  I believe that form is the diferentiator and I'll tell you why.
 

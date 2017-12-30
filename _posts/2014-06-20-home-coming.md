@@ -2,7 +2,13 @@
 title: 'Home coming'
 date: 2014-06-20 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 When I walk out of the airport arrivals lounge I typically head to pick up my suitcase and then find my place in the long line for a cab ride home. &nbsp;There is nothing better than that lurch at the back of your stomach when you walk out the security door and your subconscious recognizes a face. &nbsp;The face of your son, your daughter, your wife. &nbsp;Your subconscious knows immediately what is going on, but it takes your conscious mind a few seconds to catch up. &nbsp;At first there's the "did I just see a familiar face" reaction, which is quickly followed by "gee that looks like my son", to "wait, Alex is here?" and finally, "they came to get me! &lt;&lt;sniffle&gt;&gt;". &nbsp;The joy of seeing your family when you've been away for any length is like no other.
 

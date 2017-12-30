@@ -2,7 +2,13 @@
 title: "The 4 'A's of team behaviour"
 date: 2010-08-19 00:00:00 
 tags: business all-problem-are-communication-problems
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I've worked with a number of teams over the years. Built-from-scratch teams, in-place teams I've inherited and teams that have grown organically with me over a long period. In all cases, people have interesting dynamics when they operate in a team, but despite their ability to amaze me with their individualism, teams always seem to go through 4 stages as they react to a new leader.
 

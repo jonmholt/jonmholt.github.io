@@ -2,7 +2,13 @@
 title: 'Becoming an expert'
 date: 2014-08-14 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 How do you define an expert? A couple of hundred years ago, an expert was called a Master: a Master Mason, a Master Thatcher, a Master Weaver. &nbsp;They got this designation by spending years apprenticing, as a journeyman finding their place in a guild, and then finally by reaching a level of expertise that was recognized by their peers. &nbsp;A Master had privileges. &nbsp;A Master had prestige. People trusted the opinion of the Master, because their opinion was well informed and well practiced. &nbsp;Their key role, though, was teaching the future masters, their apprentices the tools and techniques of the trade. &nbsp;Today though, we have no guilds. &nbsp;We have no Masters. How do we know who to trust and most importantly, how do we learn the skills we need to succeed?
 

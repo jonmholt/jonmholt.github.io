@@ -2,7 +2,13 @@
 title: 'Baseline database scripts make your updates better'
 date: 2009-01-10 00:00:00 
 tags: development
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 So this week I began down the road of bringing our database scripts up to snuff with reality to ensure that we have a script that can build us a functional database from scratch.  There were a number of things that drove me there (or should I say, pushed it up high enough in the priority list): 
 

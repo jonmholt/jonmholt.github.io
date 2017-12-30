@@ -2,7 +2,13 @@
 title: 'Ironman 2014 - Training plans, off season and thoughts about 2013'
 date: 2013-11-02 00:00:00 
 tags: ironman
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 If you've ever done any serious training, you'll know there needs to be an off-season. &nbsp;To put it bluntly, off-seasons suck. &nbsp;We all recognize that we can't be in peak performance all the time and the mental strain of training and working is too hard to do all the time, so we rest. &nbsp;But sitting around 'resting' is hard to take when you have goals: it feels like wasting time. &nbsp;And that's why it's so important to plan. &nbsp;If you know when you need to start training, it's easier to take the time now to rest. &nbsp;To plan, though, you need to look back at what went well, and what didn't. &nbsp;So here we go.
 

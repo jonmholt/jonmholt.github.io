@@ -2,7 +2,13 @@
 title: 'Basel III and the credit unions'
 date: 2010-09-17 00:00:00 
 tags: business
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 While its not hot in the mainstream media, there's been a great deal of talk lately in financial circles about Basel III.  There's a great review of the [what Basel III is](http://banksimple.com/blog/2010/09/17/basel-iii-good-bad-and-ugly/) over at BankSimple, but the gist of the changes to the world's banks is this:
 

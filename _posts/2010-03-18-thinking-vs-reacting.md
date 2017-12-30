@@ -2,7 +2,13 @@
 title: 'Thinking vs reacting'
 date: 2010-03-18 00:00:00 
 tags: business software flexibility negotiation administrative
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Work is an interesting animal. &nbsp;There are many things that I want to do, many things that I need to do, just plain many things that need doing. &nbsp;But often times, I find that I'm “too busy” to actually accomplish what it is that needs doing. &nbsp;The worst part of the situation is that, looking back, its not that there was so much going on that I didn't have the time, its that I was too busy doing something else. &nbsp;It might seem that those are the same thing, but fundamentally, they're not. &nbsp;Realistically, most of the tasks that are required of a business owner are operational and strategic: dealing with the things that have happened and planning for the things that should. &nbsp;When Micheal Gerber talks about the technician, he's talking about the person or the part of you that does everything else. &nbsp;He talks about the person that is reacting. &nbsp;And its this reactionary behaviour that ensures that “nothing” gets done. &nbsp;You don't plan because there is no trigger to react to that delivers a plan. &nbsp;You don't file, balance the books or make that new connection because there is no one out there with an expectation that you will so you have nothing to which to react. &nbsp;You're not too busy, you're too busy reacting.
 

@@ -2,7 +2,13 @@
 title: "When cars aren't in charge"
 date: 2012-10-22 00:00:00 
 tags: triathlon design usability
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 So at the beginning of October, Adam Rogers of Wired &nbsp;published his manifesto
 [Observation Deck: Designing Cities for People, Not Cars](http://www.wired.com/underwire/2012/10/observation-deck-cities-bikes-cars/). &nbsp;It is an interesting discussion of establishing parts of cities where people (on foot or on bicycle) are in charge rather than cars. &nbsp;There are two very interesting parts of it that set things bouncing around in my head:

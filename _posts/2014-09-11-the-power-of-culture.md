@@ -2,8 +2,15 @@
 title: 'The power of culture'
 date: 2014-09-11 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
+
 Today I attended my first Ismaili Funeral Ceremony. It was an experience to behold since it was, at first, completely foreign.  I went to pay my last respects to a quiet, powerful woman who has left us way too soon.  As at most funeral ceremonies, I connected with many people that it was a joy to see, despite the circumstances. But mostly I will take from it a deep curiosity about the culture she lived in, in which I was so briefly immersed.
 
 I say that it was foreign, at first, because the initial experience was a cold immersion in a different language and culture.  We needed to remove our shoes to enter the Jamatkhana. We were surrounded by an almost medidative chant of people singing/praying the same prayer over and over.  We were told to sit on the floor, or if we must in chairs, with men on one side of the room and women on the other.  The family and the bier were behind a screen for the first half of the ceremony so that those of us left outside had to pray, as it were, on faith. The experience was ethereal and haunting.  But slowly, the common experience took over and the mist of confusion began to lift.

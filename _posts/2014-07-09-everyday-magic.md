@@ -2,7 +2,13 @@
 title: 'Everyday Magic'
 date: 2014-07-09 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Warning, there's a fairly high nerd quotient to this one. &nbsp;Don't say I didn't warn you.
 

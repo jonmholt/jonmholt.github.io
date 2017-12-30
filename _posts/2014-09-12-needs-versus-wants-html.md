@@ -2,7 +2,13 @@
 title: 'Needs versus Wants'
 date: 2014-09-12 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I've been spending time over the last few weeks digging into how I do things.  How I negotiate proposals.  How I set my rates.  How I decide what to work on.  What it is that I do.  What it is that I *want* to do.  Despite claiming that [I know what I want to be when I grow up](/2014/09/04/i-know-what-i-want-to-be-when-i-grow-up/), I'm constantly asking myself if what I'm doing matters to the world or to me.  So I've spent a lot of time lately listening to experts in podcasts and presentations about the presenters' theories on what the important tasks are.  Universally, it's proven to me that my default behaviours are the wrong ones.
 

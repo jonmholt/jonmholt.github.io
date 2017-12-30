@@ -2,7 +2,13 @@
 title: 'Visual Inspiration'
 date: 2014-07-11 00:00:00 
 tags: 2-minute-essay triathlon
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I'm a visual person. I think in pictures, I worry about the presentation as much as the content. I see recipes, songs, equations and conversations as images in my head. So it's not really much of a surprise that visualization helps my training. &nbsp;As we roll into the Ironman race week, I have more time at my disposal (it is taper, after all), and so I tend to spend some of that visualizing the race course, my technique, my future as a triathlete. &nbsp;And it even at this late point, is helping me improve my performance.
 

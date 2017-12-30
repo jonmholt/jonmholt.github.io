@@ -2,7 +2,13 @@
 title: 'Seamless Updates'
 date: 2009-02-04 00:00:00 
 tags: development
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 So, the lifecycle of scripted applications is, in theory, hours not days or weeks or years.  In theory, that means that you are constantly updating and adapting in a production setting: iterations of the application are reaching your end users faster.  Now, how much of that is hype and how much is reality is questionable, but the thought of applying continuous integration to _production_ is one I had never really considered.  But when you have a single point of contact and a single datastore, its alot easier to manage.  Could you apply this same paradigm to a semi-connected client-server application?  This question surfaced in my thoughts with the discussion of ClickOnce and Smart Client technology that .Net offers, but really, it seems to me, that its still a matter of how you architect a system as much as the technology available.
 

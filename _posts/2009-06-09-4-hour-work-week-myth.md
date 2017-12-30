@@ -2,7 +2,13 @@
 title: 'The 4-hour work week myth'
 date: 2009-06-09 00:00:00 
 tags: business
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 The 4-hour work week as popularized by [Tim Ferriss](http://www.fourhourworkweek.com/) is an interesting postulation: try to establish a lifestyle for yourself where you only work 4 hours a week and do what you want to do the rest of the time.  The sales pitch is that you can make a decent living only doing the day job for 1/2 a day.  The idea is that work get in the way of the life you always wanted to live.  The premise is that you toil away at work and pine for the 'other'.  In my book, the premise is flawed.
 

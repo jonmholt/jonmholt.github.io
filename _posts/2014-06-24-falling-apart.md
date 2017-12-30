@@ -2,7 +2,13 @@
 title: 'Falling Apart'
 date: 2014-06-24 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 For some reason, people separating, divorcing or otherwise just falling apart has been rampant in my life lately. &nbsp;Well, for me rampant might be three couples, but because I've been blessed enough to be surrounded by unbroken relationships, three seems like a lot. &nbsp;It is interesting how, when all you see are people happily living their life as a pair, you often don't think about it. &nbsp;You ask "I wonder why they broke up" when people fall apart, but how often do you ask "I wonder why they stay together?" &nbsp;In the end, I think staying together is the harder job, but still I wonder what keeps people together.
 

@@ -2,7 +2,13 @@
 title: 'Collaborative Development'
 date: 2010-04-08 00:00:00 
 tags: business
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 If you've been following our project manager or our chief technologist on twitter or our invitation to a revolution in software development, you've been exposed to our new religion.  We are evangelizing a new way of developing software.  We believe that the current custom enterprise software development process is inherently flawed:  pride, draconian disclosure policies and lawyers all drive companies to go it on their own.  Each company pays a premium to have their own version of the same thing their neighbor has.  If we took this model to your house, imagine a builder asking you to define where the trees should be cut and the stone quarried, the dimensions of the lumber, the makeup of the wireing, plumbing and finishing materials and then charging you premium hourly rates while all of those things are manufactured from scratch...in some cases, requiring you to pay for the factory to built too.  It makes no sense!  So we're looking to do something different: collaborative development.
 You can read all about it in our blog entry on collaborative software development, but as we've been pounding the pavement evangelizing, we've learned a few things about fear.

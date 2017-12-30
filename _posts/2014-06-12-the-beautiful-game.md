@@ -2,7 +2,13 @@
 title: 'The Beautiful Game'
 date: 2014-06-12 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 In honour of the first day of the World Cup, I thought I would spend some time thinking about _The Beautiful Game_. &nbsp;I listened to a long conversation today about soccer in Canada and why it is that professional _football_&nbsp;has never taken a hold of the Canadian or American imaginations. As a parent of a soccer playing nut, it is easy to see why so many people play the game as kids: its great socialization, exercise and, above all, a lot of fun. &nbsp;But when the pros play here, I don't know anyone that goes. &nbsp;In Europe, it seems, kids are out watching their local side by the age of 2\. days. &nbsp;Here, soccer is an after thought when it comes to entertainment. &nbsp;And I think it has a lot to do with geography.
 

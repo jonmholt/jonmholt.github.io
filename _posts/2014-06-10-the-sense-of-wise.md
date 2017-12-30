@@ -2,7 +2,13 @@
 title: 'The sense of wise'
 date: 2014-06-10 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Have you ever thought about your senses? &nbsp;How many do you have? &nbsp;Here, the answer is usually 5\. &nbsp;But apparently that's cultural. &nbsp;There are many places in the world that don't have the concept of the canonical 5 senses: sight, hearing, smell, taste and touch. &nbsp;We in north america have given a cultural predominance to those senses, but is that the end? &nbsp;I've said before that working on a car requires all the sense: you need to hear, you need to smell, you need feel and see (hopefully you're not tasting too much, but sometimes even that has its place). &nbsp;But what about your sense of balance, your sense of acceleration? &nbsp;What about your ability to move in three dimensions to reach an awkward spot without ever being able to see it? &nbsp;I think those are senses too, and so do many others around the world.
 

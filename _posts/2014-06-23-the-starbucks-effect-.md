@@ -2,7 +2,13 @@
 title: 'The Starbucks Effect'
 date: 2014-06-23 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I met a friend and colleague for coffee today. &nbsp;This is something that I do pretty much weekly. &nbsp;It could probably be more. &nbsp;Every time I go, I see many others discussing all manner of businesses from the comfort of a plush coffee-house chair. &nbsp;It's something that, these days, is normal course and there are more and more people for whom the coffee shop _is_&nbsp;the office. &nbsp;But when did this happen? &nbsp;There was a time, not too long ago, when the only place you might find a cup of coffee and a chair was a corner diner like [Rick and Alice's](http://www.urbanspoon.com/r/131/1432218/restaurant/Southgate/Rick-Alices-Grill-Edmonton). While you could probably get a 7-11 coffee or a Timmy's, the "fast food" ambiance was just not conducive to a business meeting or a day's work. I think, and this is certainly the premise of _Onward_&nbsp;by Howard Schultz, that it was the introduction of Starbucks that made this shift in our daily lives.
 

@@ -2,9 +2,16 @@
 title: 'See you with my heart'
 date: 2014-09-16 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+cover: 'content/images/2014/Sep/stare_700x393.jpg'
+navigation: true
 ---
-![see you with my heart](/content/images/2014/Sep/stare_700x393.jpg)
+
 I'm reading [Because of Winn Dixie](http://en.wikipedia.org/wiki/Because_of_Winn-Dixie) by Kate DiCamillo to my daughter right now.  I read books like that kind of like I'm hearing Stuart Mclean read them on Vinyl Cafe.  It seems to make the story more poignant some how.  It makes the deeper meanings jump out at me.  Tonight the story of Gloria Dump jumped out at me and so I thought I would share my revelation.
 
 Gloria Dump is an old woman living in Naomi Florida where our precocious heroine Opal and her intrepid mutt Winn-Dixie have recently moved.  It's because of Winn-Dixie that Opal is able to integrate herself into the new community.  He's how she meets her new friends.  He's how  she gets a job.  And he's how she manages to reconnect with her somewhat estranged father, the Preacher.  As the title suggests, all that happens in the book happens *because of Winn-Dixie*.  One of the people that Opal meets because of Winn-Dixie is Gloria.  Gloria doesn't see well and so asks Opal to tell all there is to know about her.  Gloria asks for that favour so she can see Opal with her heart.

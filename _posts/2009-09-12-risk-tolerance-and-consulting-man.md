@@ -2,7 +2,13 @@
 title: 'Risk tolerance and the consulting man'
 date: 2009-09-12 00:00:00 
 tags: business flexibility negotiation contract culture mitigation risk
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 When negotiating a contract, there are many factors to consider as you wind your way to a working agreement.  Some of these factors are quantifiable, like duration or rate, but others, like trust, are harder to pin down.  Signing a contract with a new client is a process of weighing all those factors, finding some quantifiable measure of risk inherent in the contract, and deciding what your tolerance for that risk will be.  There are a number of forms of risk to consider too: financial, reputational, and even physical.  We recently went through the process of negotiating a contract with a client who questioned our standard contract on the payment schedule terms (and good for them!), so we were forced to sit down, evaluate the financial risk quantitatively and negotiate with the client to bring the payment schedule into line with our tolerance.  This is the story of that journey.<a name="more"></a>
 

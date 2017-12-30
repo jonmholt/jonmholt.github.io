@@ -2,7 +2,13 @@
 title: 'When questions become expectations'
 date: 2014-06-17 00:00:00 
 tags: 2-minute-essay all-problem-are-communication-problems
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I attend a number of conferences every year. &nbsp;Most conferences have a registration website, group rates at the hosting hotel, sessions to register for and events to attend. &nbsp;Conferences ask that you pick and choose amongst you sessions and events in advance, _so that they can make arrangements to handle the attendance. &nbsp;_In the last year or so, conferences have started asking other questions in order to better serve their attendees. &nbsp;But the problem is, while they've added the questions to their process, they are not listening or planning sufficiently to deal with the response. &nbsp;And it tarnishes their brand.
 

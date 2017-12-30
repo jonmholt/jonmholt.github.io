@@ -2,7 +2,13 @@
 title: 'A simple response'
 date: 2010-04-22 00:00:00 
 tags: business honesty kindness
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I've spent the better part of a year now doing nothing but business development.  Its a rough sport and don't ever let anyone tell you differently.  The hardest part is definitely 'the void'.  That place that your emails go to.  That place that your voicemails go to.  That place that seems to suck in all the people that you're trying to talk to.  I suppose I can understand, its easier to ignore a request that you've decided you can't or won't deal with than it is to have to disappoint someone.  But it certainly doesn't feel like it on the receiving end.
 

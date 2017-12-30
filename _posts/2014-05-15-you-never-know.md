@@ -2,7 +2,13 @@
 title: 'You never know'
 date: 2014-05-15 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I spent the better part of today wrestling to come to terms with the most frighteningly complex system. &nbsp;It was like seeing those maps of yore and coming face to face with that place on the map where _there be dragons_. &nbsp;We've all been there, staring down that thing that just can't possibly fit in our brain. &nbsp;In this case it was the machinery that ensure all the money that goes in and out of bank accounts gets where it is supposed to go, but it could be anything.
 

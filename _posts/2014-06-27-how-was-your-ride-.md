@@ -2,7 +2,13 @@
 title: 'How was your ride?'
 date: 2014-06-27 00:00:00 
 tags: 2-minute-essay ironman triathlon
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I get asked this question a lot. But it was particularly poignant today because of how I'd approached the day in the first place. This year I'd added a lot of metrics to my riding, in particular everything to do with power. Now when I ride I have as many as many as 6 distinct metrics I'm monitoring as I go along. But to be honest, it's kinda taken the fun out of it.
 

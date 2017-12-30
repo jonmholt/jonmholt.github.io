@@ -2,7 +2,13 @@
 title: 'Sprouting Magic'
 date: 2014-05-22 00:00:00 
 tags: 2-minute-essay ironman triathlon
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Dulse. Medjool dates. &nbsp;Maca. &nbsp;Hemp. &nbsp;If these are words that make you hungry, congratulations, you are a successful hippie. &nbsp;Now don't get me wrong, I'm right in there with you...well, maybe not on the hungry part, but....these are all ingredients in a natural, home-made, recovery drink that I'm trying. &nbsp;As a gluten and dairy free person, many of the off the shelf recovery drinks are hard to take. &nbsp;I find, as I explore my nutrition as part of my [training](http://www.twentyfivetwenty.ca/2013/11/ironman-2014-training-plans-off-season.html), that I lean more and more to the vegan athletes (i.e. the ones that don't drink milk or use whey protein). &nbsp;This [particular recipe](http://www.nomeatathlete.com/post-workout-recovery/) comes from Matt Frazier, the No Meat Athlete...well technically from Brendan Brazier's [Thrive](http://www.amazon.com/gp/product/0738212547?ie=UTF8&amp;tag=nomeaath-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0738212547), but reprinted with commentary from Matt.
 

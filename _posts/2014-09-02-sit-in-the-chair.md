@@ -2,7 +2,13 @@
 title: 'Sit in the chair'
 date: 2014-09-02 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Forming a habit is a hard thing.  People talk a lot about breaking bad habits, but I think that forming new ones is just about as hard.  I want to be a better writer.  I know that the only way to become that is to practice.  These words are part of this practice, and my goal this year has been to create a habit of writing daily.  Despite a solid 6 weeks and 56 posts of doing this, life and priorities always seem to get in the way.  But in the end it's about [sitting in the chair](http://www.theminimalists.com/how-to-improve-writing/) and getting it done.
 

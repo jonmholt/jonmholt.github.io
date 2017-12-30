@@ -2,7 +2,13 @@
 title: 'Configure IISExpress for Remote Access'
 date: 2013-01-28 00:00:00 
 tags: 
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Have you ever been working on a project in Visual Studio and wanted to have someone else test-drive it?  Short of having them sit at your desk there wasn't much option as the default Visual Studio web server doesn't accept remote request.  IISExpress to the rescue, but its not a simple as you'd think.
 

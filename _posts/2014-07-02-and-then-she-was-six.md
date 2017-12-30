@@ -2,7 +2,13 @@
 title: 'And then she was six'
 date: 2014-07-02 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Shockingly, children grow up. &nbsp;It seems like just yesterday that we were sitting around in the stifling heat of the beginning of July praying for the newest addition to our family to grace us with her presence. &nbsp;And here we are, six years later sitting around in the stifling heat of the beginning of July in awe of the wonderful little human she's become. &nbsp;I know that they grow up, and I'm not usually nostalgic, but sometime it just seems that the journey happens too quickly.
 

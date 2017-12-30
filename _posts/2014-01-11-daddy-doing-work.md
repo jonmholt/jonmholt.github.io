@@ -2,7 +2,13 @@
 title: 'Daddy doing work'
 date: 2014-01-11 00:00:00 
 tags: 
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Take a look at this picture. Look at it. What jumps out at you?
 ![](/content/images/2014/Aug/doyin.jpg)

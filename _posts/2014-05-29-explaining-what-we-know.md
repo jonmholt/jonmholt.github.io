@@ -2,7 +2,13 @@
 title: 'Explaining what we know'
 date: 2014-05-29 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I once had Maya Angelou explained to me as someone who just glows with quiet compassion. &nbsp;I wish I'd known her better. &nbsp;A quote that I have followed mentally for years, that I had no idea was attributed to her is "People will forget what you said, they will forget what you did, but they will never forget how you made them feel." &nbsp;I strive everyday to make sure that every emotion I elicit in a conscious one.
 

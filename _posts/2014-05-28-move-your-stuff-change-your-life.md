@@ -2,7 +2,13 @@
 title: 'Move your stuff, change your life'
 date: 2014-05-28 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Once every three or four years, we look at our house and move stuff around in the name of the future. &nbsp;We adjust the colour palette. &nbsp;We tidy, organize and purge. &nbsp;We add decorative items that enhance the energy and we affirm our intentions for the space in our home and in our life. No, we're not HGTV aficionados with a penchant for interior design. &nbsp;We're devout "well, it can't hurt" practitioners of &nbsp;Feng Shui.
 

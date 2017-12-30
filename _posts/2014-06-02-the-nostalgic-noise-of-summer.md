@@ -2,7 +2,13 @@
 title: 'The Nostalgic Noise of Summer'
 date: 2014-06-02 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 One of the things I love about the summer is how noise carries through the air. &nbsp;Noises seem to come from much further away, and yet they are somehow muted and soft. &nbsp;I sit on my back deck, close my eyes and listen. &nbsp;Being in the city, most of the noises are urban ones, and whether it is because of the quality of the noise or some misplaced [Wonder Years](http://www.imdb.com/title/tt0094582/) coloured view, it sounds like 1960s suburbia.
 

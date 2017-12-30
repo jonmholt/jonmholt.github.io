@@ -2,7 +2,13 @@
 title: 'Daddy Brain'
 date: 2014-07-22 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I was really fascinated to see an article published in wired this month on the fact that science has made a new discovery: [dad's brains change with children too](http://www.wired.com/2014/07/how-becoming-a-father-changes-your-brain/). &nbsp;We've long known that [Mom's brain's are different](http://news.ubc.ca/2014/05/02/moms-brain-is-different/), but this is the first time I've heard a study looking specifically for changes in a male brain, since we don't have the pregnancy thing as marker.
 

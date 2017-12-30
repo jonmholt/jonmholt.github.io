@@ -2,7 +2,13 @@
 title: 'The Last Day'
 date: 2014-06-26 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 So today is the last day of school. &nbsp;The lure of long, hot summer days that has been tormenting the kids for weeks has finally arrived. The backpacks came home full of supplies. &nbsp;The kids came home full of anticipation. &nbsp;I find that as I watch my kids grow up I get to see flashes of my childhood again, with a new perspective. &nbsp;Summer holidays is another one of those moments. &nbsp;I see in them the unending possibility that is summer vacation and remember those long days romping freely around the acreage and the lake. &nbsp;As a parent I wonder about what it is I need to do to make the magic happen.
 

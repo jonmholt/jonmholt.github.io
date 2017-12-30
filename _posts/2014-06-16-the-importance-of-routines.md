@@ -2,7 +2,13 @@
 title: 'The importance of routines'
 date: 2014-06-16 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 You don't really realize the importance of routines until you break them. &nbsp;I know, all you hear all the time is don't get in a rut, constantly reinvent, find a new you. &nbsp;But in all that finding, you can lose track of who you are and what's important. &nbsp;Take this writing for example. &nbsp;I've been pretty religious now for over a month to practice daily (well, week-daily) writing. &nbsp;As much just to put in the time as to express something specific. &nbsp;I've been able to do that because I've made a place in my day to do that. &nbsp;Travelling has nearly de-railed the whole enterprise.
 

@@ -2,7 +2,13 @@
 title: 'How to un-update in bundler'
 date: 2012-12-11 00:00:00 
 tags: development
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 A while ago, I made a mistake. &nbsp;I know, I know: "That never happens!". &nbsp;Well, it did. &nbsp;As you may know, we make this little online service [www.DayhomeRegistry.com](http://www.dayhomeregistry.com/)&nbsp;and the magic behind the curtain there is Ruby on Rails. &nbsp;If you've ever worked with RoR, you know it can be a rat's nest of interdependent gems working to "make the magic happen" (tm). &nbsp;Under the guidance of our good friends at [Burmis Studio](http://www.burmis.ca/)&nbsp;we use Bundler to make the management of all those sparkly little gems hang together well. &nbsp;It has these great features that let you install all the dependencies you need from bare metal with one command. &nbsp;It lets you see all the dependencies for each gem and in a single step it can update all the gems in your Gemfile to their latest versions. &nbsp;Uh oh. &nbsp;It does what? &nbsp;And the dependencies too? And...oh...that wasn't what I wanted. Undo. &nbsp;Wait, what do you mean there's no undo? &nbsp;Crap. &nbsp;Well, this is the story of un-updating a bundler update.
 

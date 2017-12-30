@@ -2,7 +2,13 @@
 title: 'Office 2013 Preview'
 date: 2012-07-30 00:00:00 
 tags: software usability user-experience microsoft
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 So I've been using the Office 2013 Preview now for a couple of weeks and I thought I'd take a few minutes to give you my thoughts. &nbsp;In a word, Wow! &nbsp;I know it might be hyperbolic to use and exclamation point when talking about a "Productivity Suite", but Microsoft have outdone themselves on this release. 
 

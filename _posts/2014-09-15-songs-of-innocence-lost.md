@@ -2,9 +2,16 @@
 title: 'Songs of Innocence Lost'
 date: 2014-09-15 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+cover: 'content/images/2014/Sep/library_700x393.jpg'
+navigation: true
 ---
-![library](/content/images/2014/Sep/library_700x393.jpg)
+
 "So this album just appeared on my iPhone.  A free U2 album...that's cool.  But don't you think that's a little bit creepy?" I can't count how many times I've heard that in the last few weeks. And every time I've been completely mystified.  It doesn't seem weird to me at all, but then I guess I understand the abstraction.
 
 In my mind, this was a simple marketing stunt.  In order to plump up WWDC Apple wanted to do something really unorthodox.  It's kind of their thing.  They've worked closely with U2/Bono in the past, so this just makes sense.  They bought up enough licenses of U2's new album (to the tune of $100M) for all the iPhones in North America (roughly 7 million) so they could have one hell of a give away.  U2 gets the press for their album that will ensure that every non-iphone user out there will covet it.  Really, it seems like a pretty good deal for everyone.

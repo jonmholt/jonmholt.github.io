@@ -2,7 +2,13 @@
 title: 'Technology Shabbat'
 date: 2013-11-09 00:00:00 
 tags: family
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 For a while now, we've been doing what we call "screen-free" Sundays. &nbsp;No TV, no phones, no iPads, no Computers...essentially, no technology. &nbsp;The goal has always been to pull us away from the outside world and connect our family. &nbsp;We recently saw [Tiffany Shlain](http://en.wikipedia.org/wiki/Tiffany_Shlain) at [e-town](http://e-town.ca/), Edmonton's premier entrepreneurial conference and she talked about the power of the [Technology Shabbat](http://on.aol.com/video/episode-1--technology-shabbat-517965297). &nbsp;We immediately recognized our own discovery in her words: technology is awesome, but sometimes there can be too much of a good thing. &nbsp;What we've learned in our journey is that a technology shabbat gives you permission to do nothing. 
 

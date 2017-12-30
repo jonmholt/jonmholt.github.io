@@ -2,7 +2,13 @@
 title: 'Ironman Canada 2013'
 date: 2012-10-08 00:00:00 
 tags: triathlon
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 If you haven't been following the mayhem, Ironman Canada is dead, long live Ironman Canada. &nbsp;At the end of the 30th anniversary Ironman Canada Penticton, the city of Penticton and the World Triathlon Corp. parted ways. &nbsp;The European challenger for triathlon 'ultra-distance' races, the Challenge Family, have swooped in to claim their first North American venue on the venerated Penticton Iron-distance course. &nbsp; While I'm reserving my opinion on whether that's a good thing or not until I can actually race a Challenge event, the more political news is that Ironman Canada will not move to Mt. Tremblant, but rather will land in one of three new cities in this fair land. &nbsp;On the eve of the decision, I thought I'd way in the finalists.
 

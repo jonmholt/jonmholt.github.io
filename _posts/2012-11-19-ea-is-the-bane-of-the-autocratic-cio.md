@@ -2,7 +2,13 @@
 title: 'EA is the Bane of the Autocratic CIO'
 date: 2012-11-19 00:00:00 
 tags: enterprise-architecture all-problem-are-communication-problems
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I was browsing through Gartner the other day looking for EA metrics and I stumbled across this fantastic tidbit:
 >A strong CIO who firmly controls organization-wide IT issues and who establishes clear strategies for moving IT forward will be greatly aided by EA. Such a CIO will find that enterprise architecture provides the information he or she needs for important policy decisions, helps establish the organizational structures for processes that enforce those policies, and defines the metrics by which those policies are measured.

@@ -2,7 +2,13 @@
 title: 'The blessing of busy'
 date: 2014-05-21 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Ask anyone in Edmonton, likely Alberta, how they're doing and you're likely to get one answer: busy. &nbsp;It's what everyone says. &nbsp;Try it. &nbsp;And it's very likely that it's true: Alberta is booming and many people are extremely busy. &nbsp;There was a bit of backlash against that answer last year when the who's who of the entrepreneurial scene started to question whether people were _really _busy or if that had just become the pat answer that everyone expected to hear. &nbsp;"You're not busy? Well you must be doing something wrong." &nbsp;It was a thought provoking question...is it ok to not be busy? 
 

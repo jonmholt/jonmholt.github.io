@@ -2,7 +2,13 @@
 title: 'AJAX url parsing on nested controllers in rails'
 date: 2009-08-04 00:00:00 
 tags: development ajax rails
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 So I've spent the last little while getting aquainted with Ruby on Rails.  My assessment so far?  What a brilliant collection of conventions.  But the number of times I've been missing an 's' or had one to many is rediculous in the extreme.  But it occurred to me that as I was getting along so well, that what convention means is consistency.  In software, you can't go down to the local software store and pick up a CMS that will integrate with your current enterprise.  But a plumber can go down to the local hardware store and pick up a kitchen sink what will definitely fit the plumbing in your kitchen.  Why?  Because in plumbing, there's the convention that a sink drain pipe is alway 1 3/8" so they just fit.  That's what ruby on rails does for the programming commununity.  So while I'm really still a newb when it comes to rails, I can certainly appreciate the value of the conventions.  That being said, without understanding them all, you can quickly get yourself into trouble.
 

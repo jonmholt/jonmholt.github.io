@@ -2,7 +2,13 @@
 title: 'How to upgrade Windows 7 Beta / RC to the Final RTM'
 date: 2009-09-07 00:00:00 
 tags: development
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I was suffering through taking my Windows 7 RC (7100) install up to the RTM edition.  Microsoft, if you can believe it, wants you to backup all your files and settings, wipe the thing, re-install, then replace the files and settings.  Uh...no.  So after an hour of pulling my hair out, I stubled across this comment by Roland Smeets and thought I would repost on the off chance someone else might be looking for this kind of info.<a name="more"></a>
 

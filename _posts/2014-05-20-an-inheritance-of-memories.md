@@ -2,7 +2,13 @@
 title: 'An inheritance of memories'
 date: 2014-05-20 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 When my grandparents moved out of their house into assisted living I inherited a number of their household items. &nbsp;None of the things that came my way were of any particular value, just practical household goods. &nbsp;I have, for example, their dining room table and the matching hutch. &nbsp;I have an old cedar blanket chest and some small pieces they'd collected in their travels. &nbsp;I have a host of things from their garden shed and a number of old hand tools. &nbsp;These were items that they had no room to take with them and that the rest of the family didn't want. &nbsp;I think of them, when I think of them, as good hardworking items that are only important when useful. &nbsp;But the true value of my inheritance comes at those odd times when I do think of these otherwise forgotten things.
 

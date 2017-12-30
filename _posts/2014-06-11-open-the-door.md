@@ -2,7 +2,13 @@
 title: 'Open the door'
 date: 2014-06-11 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I've long believed that the universe will bring you what you need, all you need to do is ask. &nbsp;In some circles this is called voicing your intentions, in others it is actively fostering an open mind and in others it's called prayer. &nbsp;Whatever your vehicle, I truly believe that if you know in your heart what you want and you actively work towards it, the universe will find a way to satisfy your need. &nbsp;So I when I heard that same thought voiced by none other than Jim Carrey at the [2014 MUM convocation address](https://www.youtube.com/watch?v=V80-gPkpH6M), I was surprised, but felt somewhat vindicated.
 

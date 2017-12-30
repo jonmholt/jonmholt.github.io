@@ -2,7 +2,13 @@
 title: 'Gender bias'
 date: 2014-06-09 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I spent the most wonderful day yesterday volunteering at the dress rehearsal for my daughter's final ballet performance. &nbsp;I was a runner...taking classes of kids from the assembly area to their dressing room. &nbsp;This is a pretty easy job, once you have the hang of it, so it gave me lots of time to interact with the parents and the kids. &nbsp;But it was one strung out mom that prompts me to write today. &nbsp;You see, she was late. &nbsp;Her daughter's class had already gone to dress. &nbsp;Part of my job was to make sure that stragglers got where they were supposed to go, so I happily got to know the little dancer (and that her father's name was John too). &nbsp;When she was ready, I took her hand to lead her to her studio. &nbsp;It was at this point the mom stopped me, obviously concerned that a man was taking her daughter, and asked "Are you really a volunteer? I've never seen a dad volunteer before."
 

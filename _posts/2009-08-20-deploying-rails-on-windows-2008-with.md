@@ -2,7 +2,13 @@
 title: 'Deploying Rails on Windows 2008 with IIS7 and mongrel'
 date: 2009-08-20 00:00:00 
 tags: development deployment rails iis7 w2k8
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Developing applications is all about resources.  Do you have the developer tools, the frameworks, the databases, the web servers, the app servers, etc, etc, etc.  My entire career, I've been the kind of person who takes the best tool for the job that's available, but that's relatively painless to integrate into the current environment.  For example, when I'm doing ASP.Net web development I use Subversion rather than VSS 'cause its a vastly superior tool (as long as you have TortoiseSVN).   But that only works in a corporate infrastructure if its easy to implement.  If your organization has invested as little as $100 in a given infrastructure (say, windows 2008 servers and SQL server), its pretty tough to get someone to say "Ya, no problem, we'll just dump that and put in a *nix box so you can deploy RoR."  In part that's because the original decision was probably made based on the skillsets in house, so a change means not only a new person with a foreign skillset, but obsoleting an existing skillset and the person that goes with it.
 

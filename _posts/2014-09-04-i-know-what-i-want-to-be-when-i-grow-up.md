@@ -2,7 +2,13 @@
 title: 'I know what I want to be when I grow up'
 date: 2014-09-04 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 <iframe src="//player.vimeo.com/video/53588182" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/53588182">GravityLight: lighting for the developing countries</a> from <a href="http://vimeo.com/thereforeproducts">Therefore</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 

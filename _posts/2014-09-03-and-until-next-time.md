@@ -2,9 +2,15 @@
 title: 'So until next time...'
 date: 2014-09-03 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
+cover: '/content/images/2014/Sep/age-test-cassette-tape-pencil.jpg'
 ---
-![Pencil and cassette age test](/content/images/2014/Sep/age-test-cassette-tape-pencil.jpg)
 Alex came home last night talking about the story they were reading in school. He talked about how it was a true story, a story about the author's real life, a story called something like 'a house and a big wood'.  It didn't take us too long to figure out that he was talking about [Little house on the prairie](http://en.wikipedia.org/wiki/Little_House_on_the_Prairie) by Laura Ingalls Wilder.  And thus began the reminiscing . 
 
 I have an oddly emotional relationship with Little House on the Prairie.  But it's one that comes without much depth.  I, as many my age, grew up with LHOTP as a TV show staring Michael Landon.  But I realized that I didn't know that it was a book.  I didn't know that it was a true story.  And I hadn't realized the meta-significance of the Laura Ingalls character on the show.  When I stopped to think about the story, I can't really remember what happened, or why the show was important to me.  But I do fondly remember it being a part of my life every week.

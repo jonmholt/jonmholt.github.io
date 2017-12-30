@@ -2,7 +2,13 @@
 title: 'The slow death of government IT'
 date: 2014-09-10 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I read the wired article on the [lateral move of Todd Park](http://www.wired.com/2014/08/healthcare-gov/?mbid=social_twitter) from US Government CTO to *technology advisor to the whitehouse*. It's a fascinating deep dive into the mind set different between modern technology companies and our political administrations.  What's interesting is that there has been some leadership down south that has yet to materialize here.  And the question is why?
 

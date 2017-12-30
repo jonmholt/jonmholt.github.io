@@ -2,9 +2,15 @@
 title: 'Usability of an Orange'
 date: 2009-10-14 00:00:00 
 tags: business design usability user-experience ux
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
+cover: 'https://harvesttotable.com/wp-content/uploads/2008/01/Mandarin-orange-in-peel2.jpg'
 ---
-![orange](https://harvesttotable.com/wp-content/uploads/2008/01/Mandarin-orange-in-peel2.jpg "orange")
 
 I like fruit.  I do.  If you did a statistical analysis of my eating habits, though, I don't think fruit would show up in the top 10.  My wife claims that, like all men, my lack of fruit consumption is because I'm lazy.  She argues that I'm just too stuck-on-my-plonk to get up and cut up a cantaloupe or core an apple.  I thought for a while that she was right, but as the mandarin oranges re-appeared on pre-Halloween-but-never-to-early-Christmas shelves, I realized that the issue isn't my degree of gumption, its purely a usability problem.
 

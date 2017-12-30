@@ -2,7 +2,13 @@
 title: 'Start at the beginning: gluten'
 date: 2014-07-23 00:00:00 
 tags: gluten-free-brewing
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Since I talk alot about being gluten free and specifically about gluten free brewing, I thought it might be good to go back to the start and talk a little bit about what gluten is and why it's bad for those of us that react.  As a disclaimer, I'm not a bio-chemist, gastroenterologists, dietician or, hell, even a scientist really.  I'm just taking information I've gleaned over the past few years to share with you.
 

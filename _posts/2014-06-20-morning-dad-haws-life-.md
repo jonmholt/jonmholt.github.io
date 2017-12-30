@@ -2,7 +2,13 @@
 title: 'Morning dad haws life?'
 date: 2014-06-20 00:00:00 
 tags: 2-minute-essay
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 That title is a text from my son. &nbsp;I know, I've heard it all. &nbsp;You're supposed to keep the blue-light radiation from their eyes and the EMF from their brains. &nbsp;Kids brains are using less energy on screens than when their sleeping. &nbsp;Constant stimulation can cause attention deficit disorders. Screens are anti-social. &nbsp;If you believe everything out there written about the evils of screens you'd never go near modern technology again. &nbsp;And maybe you'd be right to; we don't actually know what the long term effects of some of this technology are. &nbsp;But I discovered a wonderful way to connect with my children this week: texting.
 

@@ -2,7 +2,13 @@
 title: 'Windows 8 is just a messy desktop'
 date: 2013-01-14 00:00:00 
 tags: software usability ux microsoft
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I've been running Windows 8 (ironically on my Macbook Pro) for a few months now. &nbsp;Fundamentally, I don't think that there is that big a change in the overall functionality, but there are a few key issues with it **_as a desktop OS_** that I wanted to highlight for those thinking of making the switch. &nbsp;Notice the emphasis. &nbsp;I think that as a tablet OS, Windows 8 will be incredible, but on the desktop it falls a little short. &nbsp;Here's why:
 
