@@ -1,3 +1,4 @@
+{% raw %}
 var pieData = [
     {
         value: 62800.00,
@@ -118,11 +119,12 @@ window.onload = function () {
     window.incomeChart.PolarArea(pieData, {
         scaleShowLabels: true,
         scaleShowLabelBackdrop: false,
-        scaleLabel: "<\%=value/1000\%>K",
-        tooltipTemplate: "<\%if (label){\%><\%=label\%><\%}\%>"
+        scaleLabel: "<%=value/1000%>K",
+        tooltipTemplate: "<%if (label){%><%=label%><%}%>"
     });
     var hours = document.getElementById("hours-area").getContext("2d");
     window.hoursChart = new Chart(hours).StackedBar(barChartData, {
-        multiTooltipTemplate: "<\%if (datasetLabel){\%><\%=datasetLabel\%>: <\%}\%><\%= value \%>"
+        multiTooltipTemplate: "<%if (datasetLabel){%><%=datasetLabel%>: <%}%><%= value %>"
     });
 };
+{% endraw %}
