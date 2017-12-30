@@ -2,7 +2,13 @@
 title: 'Simplified Policy Governance: A primer'
 date: 2015-08-12 00:00:00 
 tags: governance
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Governing an organization is a process of setting a target for the organization to head, and then codifying the way decisions get made to keep the organization headed that direction.  Policy governance was first developed by John Carver in the 1970’s and sets out ten principles that when strictly followed allow an organization to claim pure policy governance.  The reality is that history and external factors make a pure implementation difficult.  Some would argue that not implementing all 10 principles weakens the system.  I would argue that not owning your own implementation will do far more damage.
 

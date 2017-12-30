@@ -2,7 +2,13 @@
 title: 'Personal Brilliance'
 date: 2013-11-18 00:00:00 
 tags: 
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 I was asked a really good interview question a few weeks ago that I wanted to think my way through here. The question was:
 > What is your personal brilliance? 

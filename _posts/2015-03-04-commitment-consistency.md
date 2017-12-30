@@ -2,7 +2,13 @@
 title: 'One Simple Paragraph That Gets Projects Approved'
 date: 2015-03-04 00:00:00 
 tags: signature
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 Positioning your project as the next logical step, consistent with prior commitments is one of the surest ways to getting your project approved. People have a general desire to be (and more importantly, to appear to be) consistent in their behaviour.  This is a well known psychological trigger from behavioural science.  But how does consistency get projects approved?  Let's dig in.
 

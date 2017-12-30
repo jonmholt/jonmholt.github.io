@@ -2,7 +2,13 @@
 title: '#MutualRescue'
 date: 2016-03-08 00:00:00 
 tags: 
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 One of the first and one of the only times I've ever seen my dad cry was the day we lost our Chico. I was 14 or 15 and I drove with Dad on the trip to the vet that we knew would be Chico's last.
 

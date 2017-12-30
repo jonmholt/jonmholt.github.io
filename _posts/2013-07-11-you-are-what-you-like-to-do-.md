@@ -2,7 +2,13 @@
 title: 'You are what you like to do.'
 date: 2013-07-11 00:00:00 
 tags: ramblings
+
+class: post-template
+subclass: 'post'
 layout: post
+current: post
+author: jonmholt
+navigation: true
 ---
 The title of this post comes from the excellent, ongoing series of Make Something Edmonton, by Todd Babiak. &nbsp;In a recent [post](http://magpietown.wordpress.com/2013/01/15/edmonton-the-verb/), he discusses [métissage](http://www.ccfi.educ.ubc.ca/publication/insights/v07n02/metissage/metiscript.html)&nbsp;and&nbsp;the highlighting of native stories in the fabric of Edmonton's identity, since it is a part of who we are. &nbsp;The muse for Todd's post, and likewise this one, is the quote from Mr. Dwayne Donald:
 > In Cree and Blackfoot, words like this — about who you are, as a people — aren’t nouns. They’re verbs.Todd discusses that quote in the context of Make Something Edmonton. &nbsp;I on the other hand wanted to think about it from the perspective of self.
