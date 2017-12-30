@@ -108,3 +108,21 @@ var barChartData = {
         }
     ]
 };
+
+window.onload = function () {
+    var posts = document.getElementById("posts-area").getContext("2d");
+    window.postsChart = new Chart(posts)
+    window.postsChart.Bar(postData);
+    var income = document.getElementById("income-area").getContext("2d");
+    window.incomeChart = new Chart(income)
+    window.incomeChart.PolarArea(pieData, {
+        scaleShowLabels: true,
+        scaleShowLabelBackdrop: false,
+        scaleLabel: "<%=value/1000%>K",
+        tooltipTemplate: "<%if (label){%><%=label%><%}%>"
+    });
+    var hours = document.getElementById("hours-area").getContext("2d");
+    window.hoursChart = new Chart(hours).StackedBar(barChartData, {
+        multiTooltipTemplate: "<%if (datasetLabel){%><%=datasetLabel%>: <%}%><%= value %>"
+    });
+};
