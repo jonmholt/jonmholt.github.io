@@ -1,5 +1,5 @@
 ---
-title: 'Agile is like teenage sex: don't tell your parents'
+title: "Agile is like teenage sex: don't tell your parents"
 date: 2009-06-03 00:00:00 
 tags: development
 layout: post
