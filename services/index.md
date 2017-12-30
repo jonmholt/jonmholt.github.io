@@ -1,7 +1,7 @@
 ---
 layout: page
 current: about
-title: About
+title: Services
 navigation: true
 logo: 'assets/images/jon.jpg'
 class: page-template
