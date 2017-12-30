@@ -1,8 +1,7 @@
 ---
-title: 'Services'
-date: 2014-10-06 00:00:00 
-tags: 
-layout: post
+layout: page
+title: Services
+permalink: /services/
 ---
 I help people with their technology problems.
 
