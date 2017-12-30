@@ -3,15 +3,30 @@ layout: page
 current: about
 title: About
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/jon.jpg'
 class: page-template
 subclass: 'post page'
 ---
+<p style="text-align: center;">
+![](/content/images/2015/08/jon.jpg)
+</p>
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+I'm Jon Holt. I've been a consultant for over 15 years working with Governments, boards and financial institutions. In 2008 I started my first consulting agency with a partner. In 2009, I worked with my first startup helping them to figure out how to get off the ground. In 2011, I joined my first startup enterprise. In 2012, I started my second. And since 2008, I've been a director of a $14B credit union. I've worked with, worked in and worked on nearly 100 organizations of all sizes.
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+But my passion is sitting with business owners and helping them get clarity on what success looks like and how they might get there.
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+When I'm not having fun with businesses, I'm likely to be found spending long hours on my tri-bike pedalling through the mountains I live in. I'm a two-time Ironman Canada finisher (once in Penticton and once in Whistler). And I truly believe I swim, bike and run myself to happiness.
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+<div class="newsletter">
+      <h4>Sign up to get my best advice on entrepreneurship, strategy &amp; critical thought in my monthly newsletter.</h4>
+<form action="//twentyfivetwenty.us9.list-manage.com/subscribe/post?u=e3d5c70b38a966cb27cb923d1&amp;id=1b0fd8cf0a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+          <div class="signup">
+            <input type="text" placeholder="Your Email..." name="EMAIL" id="mce-EMAIL">
+            <input type="hidden" name="LOCATION" id="LOCATION" value="about">
+            <button type="submit" class="set">Send me articles</button>
+        </div>
+      </form>
+</div>
+<p>
+  <a class="twitter-follow-button" href="https://twitter.com/jonmholt">Follow @jonmholt</a>
+</p>
